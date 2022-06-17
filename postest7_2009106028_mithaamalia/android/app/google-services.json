@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179117879512",
+    "project_id": "postest7-028-mithaamalia",
+    "storage_bucket": "postest7-028-mithaamalia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179117879512:android:a3ef27bfccd582ca54a7ad",
+        "android_client_info": {
+          "package_name": "com.pakaian.postest7_2009106028_mithaamalia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179117879512-hiuf9r2lhdk3p747u92a4ppoi92mcv3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnEeMSbJQ6izqYuqvbSbA94TQwvuh-TtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179117879512-hiuf9r2lhdk3p747u92a4ppoi92mcv3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
